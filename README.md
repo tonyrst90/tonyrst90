@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank">Chaitanya Sai Meka</a></h1>
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank">Tony Muslin</a></h1>
 
 <div align="center">
 
