@@ -13,7 +13,6 @@
 - 💻 As a Frontend Developer, I specialize in building intuitive and engaging user interfaces. I enjoy creating responsive, aesthetically pleasing, and functional web applications that offer a seamless user experience.
 - 🔍 Currently, I'm diving into Data Structures and Algorithms (DSA) with Python to enhance my problem-solving abilities and prepare for coding challenges.
 - 🌐 Along with my frontend development work, I have a keen interest in cybersecurity and network analysis. I'm constantly exploring ways to understand and secure networks, and I enjoy learning about the latest security trends and tools.
-- 📫 Reach me at: tonyrst90@hotmail.com
 <!-- Languages and Tools -->
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
