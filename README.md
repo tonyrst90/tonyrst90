@@ -46,7 +46,6 @@
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="180em" />
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="180em" />
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaSai-Meka&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaSai-Meka&theme=highcontrast" height="180em" />
     </a>
 </div>
 
