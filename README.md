@@ -85,12 +85,3 @@
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-### 🏆 GitHub Achievements
-
-- 🔥 1,200+ commits in 2023
-- 🚀 Built 10+ open-source projects
-- 🧠 Simulated CI/CD pipeline using GitHub Actions
-- 🗃️ Created 30+ project releases
-- 👨‍💻 Contributed to 5 personal and demo repos
-- 🌍 Actively developing across 3 languages
