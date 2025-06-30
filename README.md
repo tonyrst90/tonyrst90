@@ -36,12 +36,6 @@
 </a>
 <br><br>
 <!-- Progress Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaSai-Meka&theme=synthwave-84&true&hide_border=true" />
-  </div>
-
-<br>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" alt="Top Languages" />
 <br><br><br>
